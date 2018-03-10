@@ -1,0 +1,24 @@
+#midbutton{
+	background-color: #4F4F4F;
+	color: white;
+	border: none;
+	margin-bottom: 2px;
+	font-size: large;
+	font-family: "宋体";
+}
+
+/*轮播图标题*/
+		.pic_a:link{
+			text-decoration: none;
+			color: #FFFFFF;
+		}
+		
+		.pic_a:visited{
+			text-decoration: none;
+			color: #FFFFFF;
+		}
+		
+		.pic_a:hover{
+			text-decoration: none;
+			color: #46B8DA;
+		}
